@@ -1,0 +1,16 @@
+kjhfcekwhbvcjhwebvj
+<<<<<<< HEAD
+
+
+
+
+
+
+
+fgdycfgchjfgjfcytcyrc
+=======
+,nmmnjn 
+hola desde dev
+>>>>>>> rama-1
+
+hola desde rama 2
