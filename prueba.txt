@@ -30,3 +30,5 @@ hola de nuevo desde rama 2
 >>>>>>> rama-2
 
 rama 3 commit 1
+
+rama 3 commit 2
