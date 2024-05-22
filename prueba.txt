@@ -1,4 +1,5 @@
 kjhfcekwhbvcjhwebvj
+<<<<<<< HEAD
 
 
 
@@ -7,3 +8,7 @@ kjhfcekwhbvcjhwebvj
 
 
 fgdycfgchjfgjfcytcyrc
+=======
+,nmmnjn 
+hola desde dev
+>>>>>>> rama-1
