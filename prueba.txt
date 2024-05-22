@@ -20,3 +20,4 @@ hola desde rama 2
 hola de nuevo desde rama 2
 
 >>>>>>> Stashed changes
+  hola de nuevo desde rama main
