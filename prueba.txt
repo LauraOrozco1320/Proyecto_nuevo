@@ -12,6 +12,7 @@ fgdycfgchjfgjfcytcyrc
 ,nmmnjn 
 hola desde dev
 >>>>>>> rama-1
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 
@@ -21,3 +22,9 @@ hola de nuevo desde rama 2
 
 >>>>>>> Stashed changes
   hola de nuevo desde rama main
+=======
+
+hola desde rama 2
+
+hola de nuevo desde rama 2
+>>>>>>> rama-2
